@@ -1,0 +1,1 @@
+A feature-rich full-stack web application inspired by Airbnb, built using the MERN stack. This project allows users to create, manage, and explore property listings with authentication, reviews, and location visualization.
